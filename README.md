@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Muzammil Makandar, a Full Stack Developer and AI Engineer from Bangalore, India.<br><br>- 🔭 I'm working as a Full Stack Developer at 33Kuber Advisory India LLP<br>- 🚀 I build production-grade apps with Next.js, React, TypeScript, NestJS, Node.js, and PostgreSQL<br>- 🧠 I ship AI features end-to-end - agentic systems with LangGraph, custom RAG pipelines, and LLM integrations (Groq, Gemini) via Genkit<br>- ⚡ In my free time I explore AI engineering and cybersecurity</p>
+<p align="left">I'm Muzammil Makandar, a Full Stack Developer from Bangalore, India.<br><br>- 🔭 I'm working as a Full Stack Developer at 33Kuber Advisory India LLP<br>- 🚀 I build production-grade apps with Next.js, React, TypeScript, NestJS, Node.js, and PostgreSQL<br>- 🧠 I ship AI features end-to-end - agentic systems with LangGraph, custom RAG pipelines, and LLM integrations (Groq, Gemini) via Genkit<br>- ⚡ In my free time I explore AI engineering and cybersecurity</p>
 
 ###
 
